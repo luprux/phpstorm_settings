@@ -182,7 +182,7 @@
     <node-interpreter path="/bin/node" version="0.10.42" last-modified="1455134369000" />
   </component>
   <component name="PhpRefactoringSettings">
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
     <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
     <option name="MOVE_CLASS_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
   </component>
