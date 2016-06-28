@@ -174,12 +174,12 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/bin/node" />
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="0.10.42" last-modified="1455134369000" />
+      <version-cache version="4.4.6" last-modified="1466776285000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="0.10.42" last-modified="1455134369000" />
-    <node-interpreter path="/bin/node" version="0.10.42" last-modified="1455134369000" />
+    <node-interpreter path="/usr/bin/node" version="4.4.6" last-modified="1466776285000" />
+    <node-interpreter path="/bin/node" version="4.4.6" last-modified="1466776285000" />
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
