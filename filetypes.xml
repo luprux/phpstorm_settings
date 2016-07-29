@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="dataabase" type="PLAIN_TEXT" />
       <mapping pattern="landings" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="puk" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
