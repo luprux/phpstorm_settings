@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'moveXML'" />
-    <option name="defaultScopeName" value="Project 'moveXML'" />
+    <option name="customScope" value="Directory '[marketcall] - .../app'" />
+    <option name="defaultScopeName" value="Directory '[marketcall] - .../app'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'moveXML'" />
+    <option name="SEARCH_SCOPE" value="Directory '[marketcall] - .../app'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
