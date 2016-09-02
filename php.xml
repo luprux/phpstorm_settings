@@ -12,15 +12,15 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="5c0b5ef2-b258-43c7-a7c1-98221774c33d" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="sftp://constantine@127.0.0.1:2222/usr/bin/php" id="b3ab8b4e-faec-47b7-85f6-32b8ced70b96" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="6a7c2767-534c-457a-979c-636d5a031915" WEB_SERVER_CONFIG_NAME="lubuntu" HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="constantine" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="$USER_HOME$/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="sftp://constantine@127.0.0.1:2222/usr/bin/php5" id="b3ab8b4e-faec-47b7-85f6-32b8ced70b96" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="6a7c2767-534c-457a-979c-636d5a031915" WEB_SERVER_CONFIG_NAME="lubuntu" HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="constantine" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php5" HELPERS_PATH="$USER_HOME$/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2 43204 22" version="5.6.11-1ubuntu3.1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2 38712 22" version="5.6.11-1ubuntu3.4">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-imagick.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-memcache.ini, /etc/php5/cli/conf.d/20-memcached.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-pdo_pgsql.ini, /etc/php5/cli/conf.d/20-pgsql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/20-zmq.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -317,7 +317,7 @@
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="1" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
             <configuration_option name="xdebug.remote_log" value="" />
@@ -414,8 +414,8 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.6.17">
-          <additional_php_ini>/etc/php.d/15-xdebug.ini, /etc/php.d/20-bz2.ini, /etc/php.d/20-calendar.ini, /etc/php.d/20-ctype.ini, /etc/php.d/20-curl.ini, /etc/php.d/20-dom.ini, /etc/php.d/20-exif.ini, /etc/php.d/20-fileinfo.ini, /etc/php.d/20-ftp.ini, /etc/php.d/20-gettext.ini, /etc/php.d/20-iconv.ini, /etc/php.d/20-mbstring.ini, /etc/php.d/20-pdo.ini, /etc/php.d/20-phar.ini, /etc/php.d/20-posix.ini, /etc/php.d/20-shmop.ini, /etc/php.d/20-simplexml.ini, /etc/php.d/20-sockets.ini, /etc/php.d/20-sqlite3.ini, /etc/php.d/20-sysvmsg.ini, /etc/php.d/20-sysvsem.ini, /etc/php.d/20-sysvshm.ini, /etc/php.d/20-tokenizer.ini, /etc/php.d/20-xml.ini, /etc/php.d/20-xmlwriter.ini, /etc/php.d/20-xsl.ini, /etc/php.d/30-pdo_sqlite.ini, /etc/php.d/30-wddx.ini, /etc/php.d/30-xmlreader.ini, /etc/php.d/40-json.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" version="5.6.24">
+          <additional_php_ini>/etc/php.d/15-xdebug.ini, /etc/php.d/20-bz2.ini, /etc/php.d/20-calendar.ini, /etc/php.d/20-ctype.ini, /etc/php.d/20-curl.ini, /etc/php.d/20-dom.ini, /etc/php.d/20-exif.ini, /etc/php.d/20-fileinfo.ini, /etc/php.d/20-ftp.ini, /etc/php.d/20-gd.ini, /etc/php.d/20-gettext.ini, /etc/php.d/20-iconv.ini, /etc/php.d/20-mbstring.ini, /etc/php.d/20-pdo.ini, /etc/php.d/20-pgsql.ini, /etc/php.d/20-phar.ini, /etc/php.d/20-posix.ini, /etc/php.d/20-shmop.ini, /etc/php.d/20-simplexml.ini, /etc/php.d/20-sockets.ini, /etc/php.d/20-sqlite3.ini, /etc/php.d/20-sysvmsg.ini, /etc/php.d/20-sysvsem.ini, /etc/php.d/20-sysvshm.ini, /etc/php.d/20-tokenizer.ini, /etc/php.d/20-xml.ini, /etc/php.d/20-xmlwriter.ini, /etc/php.d/20-xsl.ini, /etc/php.d/30-pdo_pgsql.ini, /etc/php.d/30-pdo_sqlite.ini, /etc/php.d/30-wddx.ini, /etc/php.d/30-xmlreader.ini, /etc/php.d/40-imagick.ini, /etc/php.d/40-json.ini, /etc/php.d/40-zmq.ini</additional_php_ini>
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -442,7 +442,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Asia/Tashkent" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -472,6 +472,7 @@
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="0" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
             <configuration_option name="highlight.html" value="#000000" />
@@ -484,6 +485,8 @@
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
+            <configuration_option name="imagick.locale_fix" value="0" />
+            <configuration_option name="imagick.progress_monitor" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".:/usr/share/pear:/usr/share/php" />
             <configuration_option name="input_encoding" value="" />
@@ -517,6 +520,12 @@
             <configuration_option name="output_handler" value="" />
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
+            <configuration_option name="pgsql.allow_persistent" value="1" />
+            <configuration_option name="pgsql.auto_reset_persistent" value="" />
+            <configuration_option name="pgsql.ignore_notice" value="0" />
+            <configuration_option name="pgsql.log_notice" value="0" />
+            <configuration_option name="pgsql.max_links" value="-1" />
+            <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -604,7 +613,7 @@
             <configuration_option name="xdebug.idekey" value="" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
-            <configuration_option name="xdebug.overload_var_dump" value="1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="0" />
@@ -612,6 +621,7 @@
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
@@ -622,6 +632,7 @@
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
             <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
             <configuration_option name="xdebug.show_local_vars" value="0" />
             <configuration_option name="xdebug.show_mem_delta" value="0" />
@@ -646,7 +657,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.3.3">
+            <debugger_info debugger="xdebug" debugger_version="2.4.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -668,9 +679,11 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
+            <extension name="gd" />
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -678,7 +691,9 @@
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
+            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -697,6 +712,7 @@
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zlib" />
+            <extension name="zmq" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
