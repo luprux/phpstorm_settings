@@ -9,6 +9,7 @@
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="puk" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
