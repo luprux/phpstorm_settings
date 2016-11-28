@@ -1093,4 +1093,10 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="b3ab8b4e-faec-47b7-85f6-32b8ced70b96" interpreter_name="Remote PHP 5.6" load_method="CUSTOM_LOADER" configuration_file_path="/home/constantine/www/marketcall/phpunit.xml" custom_loader_path="/home/constantine/www/marketcall/vendor/autoload.php" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="7e06392a-d446-41f0-aad9-c764065cf467" load_method="CUSTOM_LOADER" configuration_file_path="/home/constantine/www/marketcall/phpunit.xml" custom_loader_path="/home/constantine/www/marketcall/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
