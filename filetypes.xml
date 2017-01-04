@@ -5,13 +5,17 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="2016-12-08_add_peshkom_in_dict_route_mode" type="PLAIN_TEXT" />
       <mapping pattern="dataabase" type="PLAIN_TEXT" />
       <mapping pattern="logs-2016-12-05" type="PLAIN_TEXT" />
       <mapping pattern="landings" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="puk" type="PLAIN_TEXT" />
+      <mapping pattern="2016-11-30_alter_table_dict_bargains" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="2016-12-15_create_dict_yandex_request_types" type="SQL" />
+      <mapping pattern="2016-12-14_create_dict_yamap_layers" type="SQL" />
     </extensionMap>
   </component>
 </application>
