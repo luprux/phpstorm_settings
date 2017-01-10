@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6a7c2767-534c-457a-979c-636d5a031915" name="lubuntu" url="http://pari.local:8001">
+      <webServer id="6a7c2767-534c-457a-979c-636d5a031915" name="lubuntu" url="http://vtb.local:8000">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/home/constantine/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
