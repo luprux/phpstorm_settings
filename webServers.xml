@@ -9,6 +9,9 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="0f517895-9e34-44d6-9e75-e9dd0f2edbfa" name="MarketcallUp" url="http://marketcall:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
