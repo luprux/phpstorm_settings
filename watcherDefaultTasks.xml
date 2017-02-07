@@ -23,7 +23,7 @@
       <option name="arguments" value="node_modules/gulp/bin/gulp.js scripts" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Elixir Runner" />
