@@ -38,7 +38,7 @@
       <option name="workingDir" value="$USER_HOME$/PhpstormProjects/marketcall" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="node_modules/gulp/bin/gulp.js scripts --production" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
