@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="apib" type="Markdown" />
+      <mapping pattern="htsecure" type="PLAIN_TEXT" />
       <mapping pattern="logs-2016-12-05" type="PLAIN_TEXT" />
       <mapping pattern="landings" type="PLAIN_TEXT" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
