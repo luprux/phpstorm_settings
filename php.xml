@@ -1,7 +1,7 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration timeout="30000" tool_path="$USER_HOME$/.composer/vendor/bin/phpmd" />
+      <MessDetectorConfiguration timeout="30000" tool_path="C:\Users\Constantine\scoop\apps\composer\current\home\vendor\bin\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
