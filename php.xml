@@ -1,12 +1,12 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration timeout="30000" tool_path="C:\Users\Constantine\scoop\apps\composer\current\home\vendor\bin\phpmd.bat" />
+      <MessDetectorConfiguration timeout="30000" tool_path="C:\Users\Constantine\scoop\persist\composer\home\vendor\bin\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="C:\Users\Constantine\scoop\persist\composer\home\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
