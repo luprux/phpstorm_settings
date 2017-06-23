@@ -10,6 +10,7 @@
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="puk" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="2016-12-08_add_peshkom_in_dict_route_mode" type="PLAIN_TEXT" />
