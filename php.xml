@@ -12,12 +12,12 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:\Users\Constantine\scoop\shims\php.exe" id="04c6119e-510c-4a38-b540-952dfa8845e1" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\Users\Constantine\scoop\apps\php56\current\php.exe" id="b3696b60-1efb-4a03-bd79-5fc8a8f236ad" name="PHP 5,6" debugger_id="php.debugger.XDebug" debugger_extension="C:\Users\Constantine\scoop\apps\php56-xdebug\current\php_xdebug.dll" />
+      <interpreter home="C:\Users\Constantine\scoop\apps\php56\current\php.exe" id="b3696b60-1efb-4a03-bd79-5fc8a8f236ad" name="PHP 5.6" debugger_id="php.debugger.XDebug" debugger_extension="C:\Users\Constantine\scoop\apps\php56-xdebug\current\php_xdebug.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 5,6">
+      <interpreter name="PHP 5.6">
         <phpinfo binary_type="PHP" php_cgi="C:\Users\Constantine\scoop\apps\php56\current\php-cgi.exe" php_cli="C:\Users\Constantine\scoop\apps\php56\current\php.exe" path_separator=";" version="5.6.30" warning="Failed loading C:\Users\Constantine\scoop\apps\php-xdebug\current\php_xdebug.dll&#10;">
           <additional_php_ini />
           <configuration_file />
@@ -110,6 +110,17 @@
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="mysqli.allow_local_infile" value="1" />
+            <configuration_option name="mysqli.allow_persistent" value="1" />
+            <configuration_option name="mysqli.default_host" value="" />
+            <configuration_option name="mysqli.default_port" value="3306" />
+            <configuration_option name="mysqli.default_pw" value="" />
+            <configuration_option name="mysqli.default_socket" value="" />
+            <configuration_option name="mysqli.default_user" value="" />
+            <configuration_option name="mysqli.max_links" value="-1" />
+            <configuration_option name="mysqli.max_persistent" value="-1" />
+            <configuration_option name="mysqli.reconnect" value="" />
+            <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
             <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
@@ -292,6 +303,7 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="ereg" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
@@ -303,6 +315,7 @@
             <extension name="mbstring" />
             <extension name="mcrypt" />
             <extension name="mhash" />
+            <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
             <extension name="openssl" />
@@ -416,6 +429,17 @@
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="mysqli.allow_local_infile" value="1" />
+            <configuration_option name="mysqli.allow_persistent" value="1" />
+            <configuration_option name="mysqli.default_host" value="" />
+            <configuration_option name="mysqli.default_port" value="3306" />
+            <configuration_option name="mysqli.default_pw" value="" />
+            <configuration_option name="mysqli.default_socket" value="" />
+            <configuration_option name="mysqli.default_user" value="" />
+            <configuration_option name="mysqli.max_links" value="-1" />
+            <configuration_option name="mysqli.max_persistent" value="-1" />
+            <configuration_option name="mysqli.reconnect" value="" />
+            <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
             <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
@@ -591,6 +615,7 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
             <extension name="hash" />
@@ -600,6 +625,7 @@
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
+            <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
