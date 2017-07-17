@@ -3,32 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*,.php</mask>
-      <mask>*..php</mask>
-      <mask>*.bl.php</mask>
-      <mask>*.bla.php</mask>
-      <mask>*.blad.php</mask>
-      <mask>*.bphp</mask>
-      <mask>*.blphp</mask>
-      <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
       <mask>*.blade.php</mask>
       <mask>.c</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>8</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>tit</mask>
       <mask>titl</mask>
       <mask>title</mask>
@@ -40,6 +25,19 @@
       <mask>.cs</mask>
       <mask>.css</mask>
       <mask>*.css</mask>
+      <mask>*.щпщ</mask>
+      <mask>*.щп</mask>
+      <mask>*.щ</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ogo</mask>
+      <mask>*.og</mask>
+      <mask>*.o</mask>
+      <mask>*.[</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
