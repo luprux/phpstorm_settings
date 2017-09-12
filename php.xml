@@ -342,7 +342,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="C:\Users\Constantine\scoop\apps\php\current\php-cgi.exe" php_cli="C:\Users\Constantine\scoop\apps\php\current\php.exe" path_separator=";" version="7.1.7">
+        <phpinfo binary_type="PHP" php_cgi="C:\Users\Constantine\scoop\apps\php\current\php-cgi.exe" php_cli="C:\Users\Constantine\scoop\apps\php\current\php.exe" path_separator=";" version="7.1.9">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -370,7 +370,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Asia/Tashkent" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -411,6 +411,9 @@
             <configuration_option name="include_path" value=".;C:\php\pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="intl.default_locale" value="" />
+            <configuration_option name="intl.error_level" value="0" />
+            <configuration_option name="intl.use_exceptions" value="0" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -421,9 +424,30 @@
             <configuration_option name="max_input_nesting_level" value="64" />
             <configuration_option name="max_input_time" value="-1" />
             <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="mbstring.detect_order" value="" />
+            <configuration_option name="mbstring.encoding_translation" value="0" />
+            <configuration_option name="mbstring.func_overload" value="0" />
+            <configuration_option name="mbstring.http_input" value="" />
+            <configuration_option name="mbstring.http_output" value="" />
+            <configuration_option name="mbstring.http_output_conv_mimetypes" value="^(text/|application/xhtml\+xml)" />
+            <configuration_option name="mbstring.internal_encoding" value="" />
+            <configuration_option name="mbstring.language" value="neutral" />
+            <configuration_option name="mbstring.strict_detection" value="0" />
+            <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="mysqli.allow_local_infile" value="1" />
+            <configuration_option name="mysqli.allow_persistent" value="1" />
+            <configuration_option name="mysqli.default_host" value="" />
+            <configuration_option name="mysqli.default_port" value="3306" />
+            <configuration_option name="mysqli.default_pw" value="" />
+            <configuration_option name="mysqli.default_socket" value="" />
+            <configuration_option name="mysqli.default_user" value="" />
+            <configuration_option name="mysqli.max_links" value="-1" />
+            <configuration_option name="mysqli.max_persistent" value="-1" />
+            <configuration_option name="mysqli.reconnect" value="" />
+            <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
             <configuration_option name="mysqlnd.collect_memory_statistics" value="1" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
@@ -594,21 +618,29 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
+            <extension name="gettext" />
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mcrypt" />
+            <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="sockets" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
