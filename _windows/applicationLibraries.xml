@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="iscroll-infinite" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iScroll_5.2.0_iscroll-infinite.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iScroll_5.2.0_iscroll-infinite.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="iscroll-probe" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iScroll_5.2.0_iscroll-probe.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iScroll_5.2.0_iscroll-probe.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="select2" type="javaScript">
       <properties>
         <sourceFilesUrls>
