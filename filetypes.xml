@@ -18,6 +18,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="php_expire" type="PLAIN_TEXT" />
       <mapping pattern="2017-02-16_create_dict_street_socr" type="SQL" />
       <mapping pattern="2017-02-08_create_table_agency_invite" type="SQL" />
