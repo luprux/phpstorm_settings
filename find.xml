@@ -22,21 +22,21 @@
       <mask>*.щпщ</mask>
       <mask>*.щп</mask>
       <mask>*.щ</mask>
-      <mask>*.j</mask>
       <mask>*.ogo</mask>
       <mask>*.og</mask>
       <mask>*.o</mask>
       <mask>*.[</mask>
-      <mask>*.ph</mask>
-      <mask>*.js</mask>
       <mask>.js</mask>
       <mask>*.x</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
