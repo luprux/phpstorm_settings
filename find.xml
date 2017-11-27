@@ -7,6 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>8</mask>
       <mask>tit</mask>
@@ -32,12 +33,12 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
