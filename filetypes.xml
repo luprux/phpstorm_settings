@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="apib" type="Markdown" />
+      <mapping pattern="profiler_key" type="PLAIN_TEXT" />
       <mapping pattern="fds" type="PLAIN_TEXT" />
       <mapping pattern="htsecure" type="PLAIN_TEXT" />
       <mapping pattern="logs-2016-12-05" type="PLAIN_TEXT" />
@@ -15,12 +16,12 @@
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="2016-12-08_add_peshkom_in_dict_route_mode" type="PLAIN_TEXT" />
       <mapping pattern="2016-11-30_alter_table_dict_bargains" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="php_expire" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="php_expire" type="PLAIN_TEXT" />
       <mapping pattern="2017-02-16_create_dict_street_socr" type="SQL" />
       <mapping pattern="2017-02-08_create_table_agency_invite" type="SQL" />
       <mapping pattern="2016-12-15_create_dict_yandex_request_types" type="SQL" />
