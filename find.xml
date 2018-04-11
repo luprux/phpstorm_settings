@@ -2,42 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>title</mask>
-      <mask>.</mask>
-      <mask>.tx</mask>
-      <mask>.tcs</mask>
-      <mask>.tc</mask>
-      <mask>.t</mask>
-      <mask>.cs</mask>
-      <mask>.css</mask>
-      <mask>*.щпщ</mask>
-      <mask>*.щп</mask>
-      <mask>*.щ</mask>
-      <mask>*.ogo</mask>
-      <mask>*.og</mask>
-      <mask>*.o</mask>
-      <mask>*.[</mask>
-      <mask>.js</mask>
-      <mask>*.x</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*</mask>
-      <mask>*.ph</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
