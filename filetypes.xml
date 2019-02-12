@@ -1,36 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="apib" type="Markdown" />
-      <mapping pattern="profiler_key" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="fds" type="PLAIN_TEXT" />
-      <mapping pattern="logs-2016-12-05" type="PLAIN_TEXT" />
-      <mapping pattern="htsecure" type="PLAIN_TEXT" />
-      <mapping pattern="ae73021e9d7fba3b57f44ffc1887598b263b90f6" type="PLAIN_TEXT" />
-      <mapping pattern="landings" type="PLAIN_TEXT" />
-      <mapping pattern="af3ce7d29ec0ecaf96b59ca671546ac4caf30b8c" type="PLAIN_TEXT" />
-      <mapping pattern="dataabase" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="a8c40bc3509b31dcd9421d8671feac2fceb7be55" type="PLAIN_TEXT" />
-      <mapping pattern="puk" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern="2016-12-08_add_peshkom_in_dict_route_mode" type="PLAIN_TEXT" />
-      <mapping pattern="2016-11-30_alter_table_dict_bargains" type="PLAIN_TEXT" />
-      <mapping pattern="5fc6629117b1b507b458cd6035f3860c082c561a" type="PLAIN_TEXT" />
-      <mapping ext="php_expire" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="2016-12-15_create_dict_yandex_request_types" type="SQL" />
-      <mapping pattern="2017-02-16_create_dict_street_socr" type="SQL" />
-      <mapping pattern="2017-02-08_create_table_agency_invite" type="SQL" />
-      <mapping pattern="2017-01-27_add_user_id_in_api_sources" type="SQL" />
-      <mapping pattern="2016-12-14_create_dict_yamap_layers" type="SQL" />
+      <mapping pattern="calhost" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
