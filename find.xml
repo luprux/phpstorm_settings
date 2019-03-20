@@ -10,10 +10,10 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
