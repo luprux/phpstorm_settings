@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="E:\luprux\projects" />
     <option name="reopenLastProject" value="false" />
   </component>
 </application>
