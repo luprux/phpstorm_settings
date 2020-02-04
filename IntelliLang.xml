@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JavaScript" injector-id="xml">
-      <display-name>th/@data-render</display-name>
-      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-render")).withParent(xmlTag().withLocalName(string().equalTo("th")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
-    </injection>
-  </component>
-</application>
