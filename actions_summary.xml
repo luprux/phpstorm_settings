@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581016357524" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581016187844" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581016184792" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
