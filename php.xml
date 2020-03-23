@@ -3,7 +3,7 @@
     <interpreters>
       <interpreter id="3b89ba04-f9a3-49d6-891b-46969793f232" name="PHP 7.4.4" home="C:\Users\kohct\scoop\shims\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="efa1447e-db98-4cae-97c6-662df021dda1" name="php72:latest" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker vb" DOCKER_IMAGE_NAME="php72:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php72:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
