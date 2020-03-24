@@ -5,6 +5,18 @@
         <option name="apiUrl" value="https://192.168.99.104:2376" />
         <option name="certificatesPath" value="C:\Users\kohct\.docker\machine\machines\default" />
         <option name="machine" value="default" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users" />
+              <option name="virtualMachinePath" value="/c/Users" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="E:\luprux\projects" />
+              <option name="virtualMachinePath" value="/projects" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
