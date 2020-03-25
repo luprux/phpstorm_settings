@@ -1,16 +1,18 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general />
     <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="oracle">
         <configuration>
           <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
