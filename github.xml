@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="f0fe2165-a0e5-489b-952c-61e48ab36684" name="micrarior">
-      <server useHttp="false" host="github.com" />
-    </account>
-  </component>
-</application>
